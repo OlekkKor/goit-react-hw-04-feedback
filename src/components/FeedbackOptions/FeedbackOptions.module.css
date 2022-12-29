@@ -1,0 +1,23 @@
+.buttonGroup{
+    display: flex;
+    gap: 10px;
+}
+
+
+
+.button{
+    height: 35px;
+    width: 90px;
+    background-color: rgb(130, 201, 201);
+    border: none;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+
+.button:hover{
+    background-color: rgb(0, 61, 61);
+    color: aqua;
+}
+
+
